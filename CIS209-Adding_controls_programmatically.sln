@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS209-Adding_controls_programmatically", "CIS209-Adding_controls_programmatically\CIS209-Adding_controls_programmatically.csproj", "{A3263712-FB61-4DE3-8175-F28BBCB65B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3263712-FB61-4DE3-8175-F28BBCB65B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3263712-FB61-4DE3-8175-F28BBCB65B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3263712-FB61-4DE3-8175-F28BBCB65B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3263712-FB61-4DE3-8175-F28BBCB65B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624B73AC-F236-42B8-A701-B51D8C4E0672}
+	EndGlobalSection
+EndGlobal
